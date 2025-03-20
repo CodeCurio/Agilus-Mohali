@@ -17,7 +17,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 <li><a href="../contact">Contact</a></li>
             </ul>
             <div class="fullscreen-nav-contact">
-                <p><i class="fas fa-phone"></i> +91 8264423443</p>
+                <p><i class="fas fa-phone"></i> +91 9115 45 911515</p>
                 <p><i class="fas fa-envelope"></i> info@AgiluAluAluAluAlusdiagnostics.com</p>
                 <div class="fullscreen-social-icons">
                     <a href="#"><i class="fab fa-facebook-f"></i></a>
